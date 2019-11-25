@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/MinGW/lib/gcc/mingw32/6.3.0/include",
+                "C:/MinGW/include",
+                "C:/MinGW/lib/gcc/mingw32/6.3.0/include-fixed",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src",
+                "D:\\Antonio\\Documents\\Arduino\\libraries\\DHTlib"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:/MinGW/lib/gcc/mingw32/6.3.0/include",
+                    "C:/MinGW/lib/gcc/mingw32/6.3.0/include-fixed",
+                    "C:/MinGW/include/*",
+                    "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src",
+                    "D:\\Antonio\\Documents\\Arduino\\libraries\\DHTlib"
+                ]
+            },
+            "intelliSenseMode": "clang-x64",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "__GNUC__=6",
+                "__cdecl=__attribute__((__cdecl__))"
+            ]
+        }
+    ],
+    "version": 4
+}
